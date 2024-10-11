@@ -1,0 +1,6 @@
+data/
+*.html
+*.json
+*.xlsx
+*.csv
+*.pyc
